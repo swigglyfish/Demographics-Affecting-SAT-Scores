@@ -26,4 +26,4 @@ The original eight datasets I used for my analysis can be accessed here:
 
 The two datasets I created using the datasets above can be accessed here:
 - <a href="Created Datasets/combined.csv">combined</a> = contains all relevant information categorized by school
-- <a href="Created Datasets/districts.csv">districst</a> = contains all relevant information categorized by school district
+- <a href="Created Datasets/districts.csv">districts</a> = contains all relevant information categorized by school district
